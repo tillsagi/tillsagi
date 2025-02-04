@@ -38,6 +38,25 @@ Inspired by the human brain’s alternation between active and offline processin
 
 This dual-mode operation fosters a balance between rapid, context-sensitive responses and deeper, reflective processing that can lead to innovative problem-solving.
 
+1. **Awake State:**
+
+   - **Purpose:** This is the real-time, interactive mode where the AGI processes sensory inputs, makes immediate decisions, and executes actions.
+   - **Techniques in Focus:**
+     - **Reinforcement Learning:** For real-time decision-making and learning from immediate rewards or penalties.
+     - **Few-Shot Learning:** To adapt quickly to new, limited data without extensive retraining—vital in unpredictable environments.
+     - **Continual Learning:** To incrementally update its knowledge base as new experiences occur, ensuring the AGI can learn on the fly without forgetting past information.
+     - **Symbolic + Deep Learning:** For integrating structured reasoning (symbolic) with deep representations, helping the system make sense of complex inputs quickly.
+
+2. **Dream State:**
+   - **Purpose:** This offline state is used for consolidating, reorganizing, and simulating experiences—much like how human dreaming can help process and integrate information. In this mode, the AGI might replay past scenarios, test new hypotheses, and perform mental simulations that lead to better long-term strategies.
+   - **Techniques in Focus:**
+     - **Meta-Learning:** To learn how to learn more effectively across tasks, the AGI can analyze past learning episodes during offline processing to refine its own learning algorithms.
+     - **Transfer Learning:** This allows the system to apply knowledge gained from previous tasks to new situations, improving its adaptability.
+     - **Continual Learning (again):** In a dream state, this technique can help in consolidating and re-evaluating information over time.
+     - **Symbolic + Deep Learning:** Also useful offline, where symbolic methods can help reframe and structure the information learned by deep networks, making the integration of disparate experiences more coherent.
+
+By alternating between these states, TillsAGI could dynamically balance immediate, context-sensitive decision-making with offline, reflective processing that enhances long-term learning and adaptation.
+
 ### 2.4 Integrated, Human-Like Cognition
 
 By blending real-time sensory inputs with a rich archive of past experiences, the Tills Theory aspires to replicate the fluidity and nuance of human thought. The continuous interplay and selective recall of Tills empower the AGI to adapt seamlessly to complex and novel environments—an essential step toward achieving true general intelligence.
