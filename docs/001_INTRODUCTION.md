@@ -57,6 +57,17 @@ This dual-mode operation fosters a balance between rapid, context-sensitive resp
 
 By alternating between these states, TillsAGI could dynamically balance immediate, context-sensitive decision-making with offline, reflective processing that enhances long-term learning and adaptation.
 
+Even if modern hardware allows parallel processing, separating "awake" and "dream" states can offer several benefits:
+
+1. **Resource Allocation and Efficiency:**  
+   Even if compute power is abundant, dedicating separate periods for each state can optimize performance. During the awake state, all resources are geared toward responsiveness and immediate tasks. Then, during the dream state, the system can batch-process data, run complex simulations, and refine its internal models without the overhead of handling real-time interactions. This division helps avoid context switching that might otherwise dilute the effectiveness of both processes.
+
+2. **Interference Avoidance:**  
+   Running real-time processing alongside extensive offline consolidation can lead to interference. By isolating these processes, the system can ensure that the feedback loops and learning mechanisms of each state operate without mutual disruption.
+
+3. **Enhanced Learning and Adaptation:**  
+   Just as human sleep improves learning and creativity, the dream state allows the AGI to re-evaluate its decisions, simulate alternative strategies, and update its Tills in a controlled environment. This can lead to more robust, generalizable learning and a better overall adaptation to new situations.
+
 ### 2.4 Integrated, Human-Like Cognition: Feedback, Action, and Adaptive Learning
 
 By blending real-time sensory inputs with a rich archive of past experiences, the Tills Theory aspires to replicate the fluidity and nuance of human thought. The continuous interplay and selective recall of Tills empower the AGI to adapt seamlessly to complex and novel environments—an essential step toward achieving true general intelligence.
